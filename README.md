@@ -22,6 +22,13 @@ This is a work in progress. Table showing all html5 elements showing which are n
         <td>link</td>
     </tr>
     <tr>
+        <th>aside</th>
+        <td>new</td>
+        <td>section</td>
+        <td>A sidebar of related content</td>
+        <td>complementary</td>
+    </tr>
+    <tr>
         <th>div</th>
         <td>old</td>
         <td>flow content</td>
