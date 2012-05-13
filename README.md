@@ -15,21 +15,21 @@ This is a work in progress. Table showing all html5 elements showing which are n
     </thead>
     <tbody>
     <tr>
-        <th>    a</th>
+        <th>a</th>
         <td>updated</td>
         <td>flow content</td>
         <td>Can now contain block level elements</td>
         <td>link</td>
     </tr>
     <tr>
-        <th>    div</th>
+        <th>div</th>
         <td>old</td>
         <td>flow content</td>
         <td>A block level element that has no special meaning at all.</td>
         <td></td>
     </tr>
     <tr>
-        <th>    nav</th>
+        <th>nav</th>
         <td>new</td>
         <td>section</td>
         <td>A section with navigation links</td>
